@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['print1_81',['print1',['../class_inst1.html#ad0360eac7723292e977a3d73bb5ec9ab',1,'Inst1']]],
-  ['print2_82',['print2',['../class_inst2.html#a695d35f6bd9456996704595f1033412a',1,'Inst2']]]
+  ['k_82',['K',['../inst0__buzzer_8ino.html#a7b63ccc35ac484b9f41e37ccd0cb31bd',1,'K():&#160;inst0_buzzer.ino'],['../inst0__midi_8ino.html#a2689c4b3931025b79053532a5f1b0a85',1,'K():&#160;inst0_midi.ino'],['../inst0__serial_8ino.html#a2689c4b3931025b79053532a5f1b0a85',1,'K():&#160;inst0_serial.ino'],['../inst0__servo_8ino.html#a7b63ccc35ac484b9f41e37ccd0cb31bd',1,'K():&#160;inst0_servo.ino'],['../inst1__buzzer_8ino.html#a7b63ccc35ac484b9f41e37ccd0cb31bd',1,'K():&#160;inst1_buzzer.ino']]]
 ];

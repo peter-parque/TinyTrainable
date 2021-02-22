@@ -1,12 +1,21 @@
 var searchData=
 [
-  ['outputbuzzer_72',['outputBuzzer',['../_tiny_trainable_8h.html#a479782c1ca16b739d6a4d4ea5bfea33cab3f03ffa283d0a85d3ae1bb3edacb5d7',1,'TinyTrainable.h']]],
-  ['outputlcd_73',['outputLCD',['../_tiny_trainable_8h.html#a479782c1ca16b739d6a4d4ea5bfea33cab3bd004f8d02d669077b5f4e89f14b1c',1,'TinyTrainable.h']]],
-  ['outputled_74',['outputLED',['../_tiny_trainable_8h.html#a479782c1ca16b739d6a4d4ea5bfea33cac90e97cf5938d9b38456df3b667903b5',1,'TinyTrainable.h']]],
-  ['outputmidi_75',['outputMIDI',['../_tiny_trainable_8h.html#a479782c1ca16b739d6a4d4ea5bfea33ca3e2eb8bea8411e9dd9b1e02c1de81754',1,'TinyTrainable.h']]],
-  ['outputmode_76',['OutputMode',['../_tiny_trainable_8h.html#a479782c1ca16b739d6a4d4ea5bfea33c',1,'TinyTrainable.h']]],
-  ['outputprinter_77',['outputPrinter',['../_tiny_trainable_8h.html#a479782c1ca16b739d6a4d4ea5bfea33caaffb513b4bd1ff9a0504a2e076dae131',1,'TinyTrainable.h']]],
-  ['outputserialusb_78',['outputSerialUSB',['../_tiny_trainable_8h.html#a479782c1ca16b739d6a4d4ea5bfea33ca2d58b61f401ea47500f220228b96f999',1,'TinyTrainable.h']]],
-  ['outputservo_79',['outputServo',['../_tiny_trainable_8h.html#a479782c1ca16b739d6a4d4ea5bfea33ca6d4397afc594c4ae256f8e1dffd1c248',1,'TinyTrainable.h']]],
-  ['outputundefined_80',['outputUndefined',['../_tiny_trainable_8h.html#a479782c1ca16b739d6a4d4ea5bfea33ca70ae01028ddcc4983a661b2f63df52dd',1,'TinyTrainable.h']]]
+  ['identify_64',['identify',['../class_inst0.html#a23c6eecd7f4aa99284b578ad719acce0',1,'Inst0']]],
+  ['inst0_65',['Inst0',['../class_inst0.html#aee30b297392cdfa51fcd0786a45bb623',1,'Inst0::Inst0()'],['../class_inst0.html',1,'Inst0']]],
+  ['inst0_2ecpp_66',['Inst0.cpp',['../_inst0_8cpp.html',1,'']]],
+  ['inst0_2eh_67',['Inst0.h',['../_inst0_8h.html',1,'']]],
+  ['inst0_5fbuzzer_2eino_68',['inst0_buzzer.ino',['../inst0__buzzer_8ino.html',1,'']]],
+  ['inst0_5fled_2eino_69',['inst0_led.ino',['../inst0__led_8ino.html',1,'']]],
+  ['inst0_5fmidi_2eino_70',['inst0_midi.ino',['../inst0__midi_8ino.html',1,'']]],
+  ['inst0_5fserial_2eino_71',['inst0_serial.ino',['../inst0__serial_8ino.html',1,'']]],
+  ['inst0_5fservo_2eino_72',['inst0_servo.ino',['../inst0__servo_8ino.html',1,'']]],
+  ['inst1_73',['Inst1',['../class_inst1.html',1,'Inst1'],['../class_inst1.html#a0048f0202d5db51b18cdd87a65c1a9c4',1,'Inst1::Inst1()']]],
+  ['inst1_2ecpp_74',['Inst1.cpp',['../_inst1_8cpp.html',1,'']]],
+  ['inst1_2eh_75',['Inst1.h',['../_inst1_8h.html',1,'']]],
+  ['inst1_5fbuzzer_2eino_76',['inst1_buzzer.ino',['../inst1__buzzer_8ino.html',1,'']]],
+  ['inst1_5fclassifier_2eino_77',['inst1_classifier.ino',['../inst1__classifier_8ino.html',1,'']]],
+  ['inst1_5fcollecting_5fdata_2eino_78',['inst1_collecting_data.ino',['../inst1__collecting__data_8ino.html',1,'']]],
+  ['inst2_79',['Inst2',['../class_inst2.html',1,'Inst2'],['../class_inst2.html#ae90e5ad68301c27c3b8970f4f752f40d',1,'Inst2::Inst2()']]],
+  ['inst2_2ecpp_80',['Inst2.cpp',['../_inst2_8cpp.html',1,'']]],
+  ['inst2_2eh_81',['Inst2.h',['../_inst2_8h.html',1,'']]]
 ];

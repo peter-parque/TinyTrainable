@@ -1,4 +1,7 @@
 var searchData=
 [
-  ['model_204',['model',['../model_8h.html#ae142afd8c2e2c711c1c62440deebe03c',1,'model.h']]]
+  ['accelerationthreshold_241',['accelerationThreshold',['../inst1__classifier_8ino.html#a128d9c651abe6ce6229d846d4dcb7490',1,'accelerationThreshold():&#160;inst1_classifier.ino'],['../inst1__collecting__data_8ino.html#a128d9c651abe6ce6229d846d4dcb7490',1,'accelerationThreshold():&#160;inst1_collecting_data.ino']]],
+  ['ax_242',['aX',['../inst1__collecting__data_8ino.html#aa9f27499fb09c5c31ec7281bc79cf972',1,'inst1_collecting_data.ino']]],
+  ['ay_243',['aY',['../inst1__collecting__data_8ino.html#a7b573a84378f78cbf2bfee9ca304f2d0',1,'inst1_collecting_data.ino']]],
+  ['az_244',['aZ',['../inst1__collecting__data_8ino.html#a7e0dee32de8773dd38898016117686ee',1,'inst1_collecting_data.ino']]]
 ];

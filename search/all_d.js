@@ -1,7 +1,5 @@
 var searchData=
 [
-  ['tinytrainable_105',['TinyTrainable',['../class_tiny_trainable.html',1,'TinyTrainable'],['../class_tiny_trainable.html#a088a969dd049b431aad8d24dca2fb3a7',1,'TinyTrainable::TinyTrainable()']]],
-  ['tinytrainable_2ecpp_106',['TinyTrainable.cpp',['../_tiny_trainable_8cpp.html',1,'']]],
-  ['tinytrainable_2eh_107',['TinyTrainable.h',['../_tiny_trainable_8h.html',1,'']]],
-  ['trainknn_108',['trainKNN',['../class_inst0.html#a069ab36db0c5473d743eb0c5da626b67',1,'Inst0']]]
+  ['num_5fgestures_88',['NUM_GESTURES',['../inst1__classifier_8ino.html#a265d4fcbf85fd4c1daa0c27269ad56a5',1,'inst1_classifier.ino']]],
+  ['numsamples_89',['numSamples',['../inst1__classifier_8ino.html#a6e69593c0b3936427c48a2929a462cb2',1,'numSamples():&#160;inst1_classifier.ino'],['../inst1__collecting__data_8ino.html#a6e69593c0b3936427c48a2929a462cb2',1,'numSamples():&#160;inst1_collecting_data.ino']]]
 ];
