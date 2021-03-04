@@ -29,13 +29,14 @@ var searchData=
   ['_5foutputpinmidi_26',['_outputPinMIDI',['../class_tiny_trainable.html#a21cbcf10ac57c88e16574681376cba48',1,'TinyTrainable']]],
   ['_5foutputpinprinter_27',['_outputPinPrinter',['../class_tiny_trainable.html#a87bd4893f7cc31d8f1bde90cb54e2d6d',1,'TinyTrainable']]],
   ['_5foutputpinservo_28',['_outputPinServo',['../class_tiny_trainable.html#aac0491e8eb3907bf8eb33d7e7e9b0a13',1,'TinyTrainable']]],
-  ['_5fpreviousclassification_29',['_previousClassification',['../class_inst0.html#af16ba8abb5e8665a1bfafe725c5be94c',1,'Inst0']]],
-  ['_5fserialdebugging_30',['_serialDebugging',['../class_tiny_trainable.html#a548b35b4479d8aff4d7e29104333d093',1,'TinyTrainable']]],
-  ['_5fservoanglecurrent_31',['_servoAngleCurrent',['../class_tiny_trainable.html#ab4bcea9194a1011e1885ecba79ce742d',1,'TinyTrainable']]],
-  ['_5fservoanglemax_32',['_servoAngleMax',['../class_tiny_trainable.html#a00eb0e0da0e72c4dd20eec0f467e5fec',1,'TinyTrainable']]],
-  ['_5fservoanglemin_33',['_servoAngleMin',['../class_tiny_trainable.html#a0077df8a8ccc8763c575b47b72ed09f3',1,'TinyTrainable']]],
-  ['_5fservochances_34',['_servoChances',['../class_tiny_trainable.html#a7dc4b2e4c691355d3f4727997a4f5894',1,'TinyTrainable']]],
-  ['_5fservotempos_35',['_servoTempos',['../class_tiny_trainable.html#acae24c8fa40962ab35def08ba2e7d0d5',1,'TinyTrainable']]],
-  ['_5fservotimenow_36',['_servoTimeNow',['../class_tiny_trainable.html#a7e59dba059044557499278a5dbd56c45',1,'TinyTrainable']]],
-  ['_5fservotimeprevious_37',['_servoTimePrevious',['../class_tiny_trainable.html#a2460735480c60bcfaabfd345a72332bd',1,'TinyTrainable']]]
+  ['_5foutputpintest_29',['_outputPinTest',['../class_tiny_trainable.html#ab956c2a85c55680e41c0b53aceb62519',1,'TinyTrainable']]],
+  ['_5fpreviousclassification_30',['_previousClassification',['../class_inst0.html#af16ba8abb5e8665a1bfafe725c5be94c',1,'Inst0']]],
+  ['_5fserialdebugging_31',['_serialDebugging',['../class_tiny_trainable.html#a548b35b4479d8aff4d7e29104333d093',1,'TinyTrainable']]],
+  ['_5fservoanglecurrent_32',['_servoAngleCurrent',['../class_tiny_trainable.html#ab4bcea9194a1011e1885ecba79ce742d',1,'TinyTrainable']]],
+  ['_5fservoanglemax_33',['_servoAngleMax',['../class_tiny_trainable.html#a00eb0e0da0e72c4dd20eec0f467e5fec',1,'TinyTrainable']]],
+  ['_5fservoanglemin_34',['_servoAngleMin',['../class_tiny_trainable.html#a0077df8a8ccc8763c575b47b72ed09f3',1,'TinyTrainable']]],
+  ['_5fservochances_35',['_servoChances',['../class_tiny_trainable.html#a7dc4b2e4c691355d3f4727997a4f5894',1,'TinyTrainable']]],
+  ['_5fservotempos_36',['_servoTempos',['../class_tiny_trainable.html#acae24c8fa40962ab35def08ba2e7d0d5',1,'TinyTrainable']]],
+  ['_5fservotimenow_37',['_servoTimeNow',['../class_tiny_trainable.html#a7e59dba059044557499278a5dbd56c45',1,'TinyTrainable']]],
+  ['_5fservotimeprevious_38',['_servoTimePrevious',['../class_tiny_trainable.html#a2460735480c60bcfaabfd345a72332bd',1,'TinyTrainable']]]
 ];
