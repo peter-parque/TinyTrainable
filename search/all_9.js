@@ -1,7 +1,7 @@
 var searchData=
 [
   ['identify_70',['identify',['../class_inst0.html#a23c6eecd7f4aa99284b578ad719acce0',1,'Inst0']]],
-  ['inst0_71',['Inst0',['../class_inst0.html#aee30b297392cdfa51fcd0786a45bb623',1,'Inst0::Inst0()'],['../class_inst0.html',1,'Inst0']]],
+  ['inst0_71',['Inst0',['../class_inst0.html',1,'Inst0'],['../class_inst0.html#aee30b297392cdfa51fcd0786a45bb623',1,'Inst0::Inst0()']]],
   ['inst0_2ecpp_72',['Inst0.cpp',['../_inst0_8cpp.html',1,'']]],
   ['inst0_2eh_73',['Inst0.h',['../_inst0_8h.html',1,'']]],
   ['inst0_5fbuzzer_2eino_74',['inst0_buzzer.ino',['../inst0__buzzer_8ino.html',1,'']]],
@@ -15,7 +15,8 @@ var searchData=
   ['inst1_5fbuzzer_2eino_82',['inst1_buzzer.ino',['../inst1__buzzer_8ino.html',1,'']]],
   ['inst1_5fclassifier_2eino_83',['inst1_classifier.ino',['../inst1__classifier_8ino.html',1,'']]],
   ['inst1_5fcollecting_5fdata_2eino_84',['inst1_collecting_data.ino',['../inst1__collecting__data_8ino.html',1,'']]],
-  ['inst2_85',['Inst2',['../class_inst2.html',1,'Inst2'],['../class_inst2.html#ae90e5ad68301c27c3b8970f4f752f40d',1,'Inst2::Inst2()']]],
+  ['inst2_85',['Inst2',['../class_inst2.html#ae90e5ad68301c27c3b8970f4f752f40d',1,'Inst2::Inst2()'],['../class_inst2.html',1,'Inst2']]],
   ['inst2_2ecpp_86',['Inst2.cpp',['../_inst2_8cpp.html',1,'']]],
-  ['inst2_2eh_87',['Inst2.h',['../_inst2_8h.html',1,'']]]
+  ['inst2_2eh_87',['Inst2.h',['../_inst2_8h.html',1,'']]],
+  ['inst2_5fserial_2eino_88',['inst2_serial.ino',['../inst2__serial_8ino.html',1,'']]]
 ];
