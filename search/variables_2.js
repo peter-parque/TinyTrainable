@@ -1,4 +1,7 @@
 var searchData=
 [
-  ['color_5fthreshold_346',['COLOR_THRESHOLD',['../color__buzzer_8ino.html#a21019d9579860a08d869f4dfda8598d8',1,'COLOR_THRESHOLD():&#160;color_buzzer.ino'],['../color__led_8ino.html#a21019d9579860a08d869f4dfda8598d8',1,'COLOR_THRESHOLD():&#160;color_led.ino'],['../color__midi_8ino.html#a21019d9579860a08d869f4dfda8598d8',1,'COLOR_THRESHOLD():&#160;color_midi.ino'],['../color__serial_8ino.html#a21019d9579860a08d869f4dfda8598d8',1,'COLOR_THRESHOLD():&#160;color_serial.ino'],['../color__servo_8ino.html#a21019d9579860a08d869f4dfda8598d8',1,'COLOR_THRESHOLD():&#160;color_servo.ino']]]
+  ['bossanovabd_370',['bossanovaBD',['../_m_i_d_i_patterns_8h.html#a71a3fcfa44b79d164682c9d7ef195714',1,'MIDIPatterns.h']]],
+  ['bossanovach_371',['bossanovaCH',['../_m_i_d_i_patterns_8h.html#aa08d8b1c071b23e0d884b374bb68945a',1,'MIDIPatterns.h']]],
+  ['bossanovaht_372',['bossanovaHT',['../_m_i_d_i_patterns_8h.html#a6bd7d3e00e676c96ed0cba9dcbc8d4ae',1,'MIDIPatterns.h']]],
+  ['bossanovasn_373',['bossanovaSN',['../_m_i_d_i_patterns_8h.html#aac1ee973c16c25701285d711d81120a8',1,'MIDIPatterns.h']]]
 ];
