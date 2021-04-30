@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['classify_283',['classify',['../class_input_gesture.html#aa4d9efdef2131610f9478ed225318452',1,'InputGesture']]]
+  ['debugprint_284',['debugPrint',['../class_tiny_trainable.html#a66f82583fa2d31b5000f73b6b73f01c5',1,'TinyTrainable']]]
 ];
