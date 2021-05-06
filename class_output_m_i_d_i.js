@@ -1,10 +1,12 @@
 var class_output_m_i_d_i =
 [
     [ "OutputMIDI", "class_output_m_i_d_i.html#a24cc046b95bb94319d888acc18a8d83f", null ],
-    [ "playOutput", "class_output_m_i_d_i.html#a02d256596db93c019d280d5cd4a67720", null ],
-    [ "sendSerialMIDINote", "class_output_m_i_d_i.html#a937be7799c4264e23cc85cf2aaa7ba91", null ],
+    [ "playOutput", "class_output_m_i_d_i.html#a1bad40fd470139f89c2f36a84d3b86ee", null ],
+    [ "sendMIDIAllNotesOff", "class_output_m_i_d_i.html#a3f1f8b8cd5ec539d48694ed03edc2b7f", null ],
+    [ "sendMIDINoteOff", "class_output_m_i_d_i.html#af165da797be6315dcacdb4b977537242", null ],
+    [ "sendMIDINoteOn", "class_output_m_i_d_i.html#a43b04a79ed1eed9dd1922b1efe544830", null ],
     [ "setMIDINote", "class_output_m_i_d_i.html#a4e974abc4ee3292a68cdb53bbcbb2b96", null ],
-    [ "setupOutputMIDI", "class_output_m_i_d_i.html#a221ad494539cf8b66eb7a99538341eec", null ],
+    [ "setupOutputMIDI", "class_output_m_i_d_i.html#a6630a3bb626407cbc58c4823af057e3b", null ],
     [ "setupSerialMIDI", "class_output_m_i_d_i.html#adc9e292351d62ca7a88d888a104bb6f1", null ],
     [ "_midiChannel", "class_output_m_i_d_i.html#a887baeda807202d10e94dfaf8214911e", null ],
     [ "_midiNotes", "class_output_m_i_d_i.html#a1712a387e81e8cf6b46b31e8e7f988ac", null ],
