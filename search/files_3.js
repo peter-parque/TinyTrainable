@@ -1,10 +1,5 @@
 var searchData=
 [
-  ['input_2eh_288',['Input.h',['../_input_8h.html',1,'']]],
-  ['inputcolor_2ecpp_289',['InputColor.cpp',['../_input_color_8cpp.html',1,'']]],
-  ['inputcolor_2eh_290',['InputColor.h',['../_input_color_8h.html',1,'']]],
-  ['inputgesture_2ecpp_291',['InputGesture.cpp',['../_input_gesture_8cpp.html',1,'']]],
-  ['inputgesture_2eh_292',['InputGesture.h',['../_input_gesture_8h.html',1,'']]],
-  ['inputspeech_2ecpp_293',['InputSpeech.cpp',['../_input_speech_8cpp.html',1,'']]],
-  ['inputspeech_2eh_294',['InputSpeech.h',['../_input_speech_8h.html',1,'']]]
+  ['tinytrainable_2ecpp_246',['TinyTrainable.cpp',['../_tiny_trainable_8cpp.html',1,'']]],
+  ['tinytrainable_2eh_247',['TinyTrainable.h',['../_tiny_trainable_8h.html',1,'']]]
 ];
