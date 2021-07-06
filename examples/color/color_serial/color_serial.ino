@@ -12,17 +12,18 @@ const float COLOR_THRESHOLD = 0.5;
 // constant for debugging
 const bool debugOn = true;
 
-String myItems[3] = {"item0", "item1", "item2"};
+String myColors[3] = {"color0", "color1", "color2"};
 
 // setup() runs once, at the beginning
 void setup() {
+
   // set debugging over serial port
   myTiny.setupInstrument(debugOn);
 
   myTiny.setupOutputSerial();
 
-  // train the KNN algorithm with your objects
-  myTiny.trainKNN(K, EXAMPLES_PER_CLASS, COLOR_THRESHOLD, myItems);
+  // train the KNN algorithm
+  myTiny.trainKNN(K, EXAMPLES_PER_CLASS, COLOR_THRESHOLD, myColors);
 }
 
 // loop() runs after setup(), on a loop

@@ -7,9 +7,6 @@
 // declare instance of a TinyTrainable instrument
 TinyTrainable myTiny(INPUT_GESTURE, OUTPUT_SERVO);
 
-// String myItems[3] = {"item0", "item1", "item2"};
-String myItems[3] = {"avocado", "orange", "towel"};
-
 // our servo moves between the minimum and maximum angles
 // at a desired tempo measured in beats per minute
 const int tempo0 = 20;
@@ -31,7 +28,7 @@ int freqArray2[] = {3100, 3200, 3300, 3400, 3500, 3600};
 int paramArrayLength = 6;
 
 // array to map gesture index to a name
-String GESTURES[] = {"gesture0", "gesture1", "gesture2"};
+String MY_GESTURES[] = {"gesture0", "gesture1", "gesture2"};
 
 // setup() runs once, at the beginning
 void setup() {
@@ -47,9 +44,9 @@ void setup() {
   myTiny.setServoTempo(2, tempo2);
 
   // use this line to include the default model
-  myTiny.setupGestureModel(GESTURES);
+  myTiny.setupGestureModel(MY_GESTURES);
   // or use this line to include your own model
-  //   myTiny.setupGestureModel(GESTURES, myGestureModel);
+  //   myTiny.setupGestureModel(MY_GESTURES, myGestureModel);
 }
 
 void loop() {

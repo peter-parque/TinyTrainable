@@ -4,13 +4,13 @@
 #ifndef OUTPUT_MIDI_H
 #define OUTPUT_MIDI_H
 
-// include Arduino library
+/// @include Arduino library
 #include <Arduino.h>
 
-// include Output library
+/// @include Output library
 #include "Output.h"
 
-// include TinyTrainable library
+/// @include TinyTrainable library
 #include "TinyTrainable.h"
 
 // TODO: include MIDIPatterns.h
@@ -41,16 +41,19 @@ public:
   void setupSerialMIDI();
 
   // notes for volca beats
-  byte noteBassDrum = 36;
-  byte noteSnare = 38;
-  byte noteClosedHiHat = 42;
-  byte noteHiTom = 50;
+//   byte noteBassDrum = 36;
+//   byte noteSnare = 38;
+//   byte noteClap = 39;
+//   byte noteClosedHiHat = 42;
+//   byte noteLowTom = 43;
+//   byte noteOpenHiHat = 46;
+//   byte noteHiTom = 50;
 
   int currentStep = 0;
   int totalSteps = 16;
 
   // 0 - bossanova, 1 - chacha, 2 - samba
-  int currentGenre = 2;
+  int currentGenre = -1;
 
   int tempoDelay = 100;
 };
